@@ -1,0 +1,3 @@
+../Core/Src/funciones.c:3:5:elevar_cuadrado	24	static
+../Core/Src/funciones.c:11:7:area_circulo	16	static
+../Core/Src/funciones.c:15:6:neg_or_pos	16	static
